@@ -74,6 +74,7 @@ namespace RefactorKata
                 }
             }
 
+            write.Close();
             Console.WriteLine("-------------------------------------");
             Console.WriteLine($"duplicate count: {duplicate}");
             Console.WriteLine($"total count: {index}");
