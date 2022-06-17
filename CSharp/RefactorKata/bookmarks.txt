@@ -1,0 +1,9 @@
+https://academy.binance.com/zt/articles/byzantine-fault-tolerance-explained | 拜占庭容錯的解釋 | Binance Academy
+https://blog.darkthread.net/blog/chrome-timer-throttling/?fbclid=IwAR0Tlqz8_XmxlICfu8Z9Mzxnu1dpn-8SAiDjjxg62ufUlGFLISCieHvoKc0 | 當心 setInterval 因瀏覽器節流模式嚴重失準-黑暗執行緒
+https://medium.com/taipei-ethereum-meetup/intro-to-pbft-31187f255e68 | 若想搞懂區塊鏈就不能忽視的經典：PBFT. PBFT有什麼重要的特性？PBFT上能發行密碼貨幣嗎？ | by Juin Chiu | Taipei Ethereum Meetup | Medium
+https://www.darencademy.com/article/view/id/16720 | 向親近的人傾訴痛苦，對方卻說是我玻璃心…遇上這種狀況，真的是我該反省嗎？ - 大人學
+https://www.managertoday.com.tw/articles/view/57047 | 成功者最常掛嘴邊的謊話！聽信這 3 句話，小心害慘自己一輩子|經理人
+https://www.samsonhoi.com/570/blockchain-pbft | 區塊鏈 Blockchain - 共識機制之實用拜占庭容錯 PBFT | Samson's Blog
+https://www.youtube.com/watch?v=e9KVmyI1eCg | 拜占庭将军问题是什么？区块链如何解决防范恶意节点？ - YouTube
+https://www.youtube.com/watch?v=HEaz71juXiM | 【日本語訳】A day of Mob Programming Subtitles by Joe Justice [No Audio] - YouTube
+https://www.cheers.com.tw/article/article.action?id=5095437&utm_referral=dailypost | 那些年，一位４年級台灣爸爸對美國留學回來的７年級女兒說「什麼才是成功」 - Cheers 快樂工作人
