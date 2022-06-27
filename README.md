@@ -1,4 +1,4 @@
-# Refactor & Test Kata
+# Refactoring & Test Kata
 
 存在一份處理 Bookmark 文字檔的 console 程式，但現行功能已經無法滿足使用者，需要在保持原本功能正常的前提下，不停的增加/修改功能。
 請在增加需求功能的同時, 補上測試，並進行重構。
