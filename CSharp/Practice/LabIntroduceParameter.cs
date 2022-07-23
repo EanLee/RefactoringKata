@@ -7,7 +7,7 @@
             var result = Pow();
         }
 
-        private static double Pow()
+        private double Pow()
         {
             // 請將 value Introduce parameter
             var value = 3.2;
